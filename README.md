@@ -26,7 +26,3 @@ I am a master student at TU Delft, studying applied physics. In my spare time, I
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MKaner72)](https://git.io/streak-stats)
